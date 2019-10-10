@@ -15,7 +15,7 @@ use pocketmine\scheduler\Task;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat as TF;
 
-class Main extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener{
 
 
 	/** @var Config */
